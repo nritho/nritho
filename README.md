@@ -1,4 +1,4 @@
-### Hi I'm George and this is a show case of stuff that I like working on.
+### Hi I'm George and this is a show case of projects I've worked on.
 
 <!--
 **nritho/nritho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
